@@ -16,4 +16,6 @@ The project includes:
 
 The dataset comes from a scientific article and includes samples of two raisin varieties: Besni and Kecimen. They were collected by gathering raisin seed samples, captured in digital images ready for analysis using machine vision system. The dataset contains information such as area, perimeter, major and minor axis length, eccentricity, convex area, and extent.
 
+*Link to the article:* https://dergipark.org.tr/tr/download/article-file/1227592
+
 Feel free to explore the code, adapt it to different datasets, and experiment with various parameters to enhance model performance. Happy exploring!
